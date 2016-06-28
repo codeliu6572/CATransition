@@ -19,6 +19,7 @@
 		683B0F4F1D21250500CEFA0D /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 683B0F4B1D21250500CEFA0D /* 2.png */; };
 		683B0F501D21250500CEFA0D /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = 683B0F4C1D21250500CEFA0D /* 3.png */; };
 		683B0F511D21250500CEFA0D /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = 683B0F4D1D21250500CEFA0D /* 4.png */; };
+		687BF2091D220F3200B5A592 /* xiaoguo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 687BF2081D220F3200B5A592 /* xiaoguo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		683B0F4B1D21250500CEFA0D /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
 		683B0F4C1D21250500CEFA0D /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
 		683B0F4D1D21250500CEFA0D /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		687BF2081D220F3200B5A592 /* xiaoguo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = xiaoguo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				683B0F131D21208000CEFA0D /* AppDelegate.m */,
 				683B0F151D21208000CEFA0D /* ViewController.h */,
 				683B0F161D21208000CEFA0D /* ViewController.m */,
+				687BF2081D220F3200B5A592 /* xiaoguo.gif */,
 				683B0F4A1D21250500CEFA0D /* 1.png */,
 				683B0F4B1D21250500CEFA0D /* 2.png */,
 				683B0F4C1D21250500CEFA0D /* 3.png */,
@@ -257,6 +260,7 @@
 			files = (
 				683B0F1F1D21208000CEFA0D /* LaunchScreen.storyboard in Resources */,
 				683B0F511D21250500CEFA0D /* 4.png in Resources */,
+				687BF2091D220F3200B5A592 /* xiaoguo.gif in Resources */,
 				683B0F4E1D21250500CEFA0D /* 1.png in Resources */,
 				683B0F4F1D21250500CEFA0D /* 2.png in Resources */,
 				683B0F501D21250500CEFA0D /* 3.png in Resources */,
@@ -512,6 +516,7 @@
 				683B0F3B1D21208000CEFA0D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		683B0F3C1D21208000CEFA0D /* Build configuration list for PBXNativeTarget "CATransition过渡Tests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +525,7 @@
 				683B0F3E1D21208000CEFA0D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		683B0F3F1D21208000CEFA0D /* Build configuration list for PBXNativeTarget "CATransition过渡UITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +534,7 @@
 				683B0F411D21208000CEFA0D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
