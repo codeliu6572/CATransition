@@ -12,13 +12,15 @@
 CATransition有两个属性type和subType，type设置变换效果，subType设置滑入方向
 
 type可设置值：
-   kCATransitionFade
-   kCATransitionMoveIn
-   kCATransitionPush
-   kCATransitionReveal
+
+    kCATransitionFade
+    kCATransitionMoveIn
+    kCATransitionPush
+    kCATransitionReveal
  
  
-subTpe可设置值
+subTpe可设置值：
+
     kCATransitionFromRight
     kCATransitionFromLeft
     kCATransitionFromTop
